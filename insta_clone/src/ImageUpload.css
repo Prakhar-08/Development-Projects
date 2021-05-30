@@ -1,0 +1,13 @@
+.ImageUpload {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.ImageUpload__progress {
+    width: 100%;
+}
+
