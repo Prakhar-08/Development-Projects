@@ -18,7 +18,7 @@ const Navbar = () => {
 
                 <div className="categories">
                     <div><span className="item">Categories</span></div>
-                    <div><span className="item">Business Categories</span></div>
+                    <div><span className="item">Accesories</span></div>
                     <div><span className="item">Teach on Devskart</span></div>
                     
                 </div>
@@ -42,4 +42,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar
+export default Navbar;
