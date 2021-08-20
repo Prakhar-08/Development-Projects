@@ -41,7 +41,6 @@ const Categories = () => {
       </Grid>
     </div>
     </div>
-    <hr style={{backgroundColor: "lightgray"}}/>
     </>
   );
 }

@@ -4,6 +4,7 @@ import PlayCircleFilledIcon from '@material-ui/icons/PlayCircleFilled';
 import StarsIcon from '@material-ui/icons/Stars';
 import FourKIcon from '@material-ui/icons/FourK';
 import Categories from './Categoreis';
+import Template from './Template';
 
 
 const Home = () => {
@@ -44,7 +45,7 @@ const Home = () => {
                 <p>Whether you work in machine learning or finance, or are pursuing a career in web development or data science, Python is one of the most important skills you can learn. Python's simple syntax is especially suited for desktop, web, and business applications. Python's design philosophy emphasizes readability and usability.</p>
             </div>
             <Categories />
-            
+            <Template />
         </div>
     )
 }
